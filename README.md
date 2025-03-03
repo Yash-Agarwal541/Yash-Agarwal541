@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, Yash Agarwal
+  Hi 👋,I'm Yash Agarwal
   <p align = "center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Engineer;Python+Developer;Web+Developer" alt="Yash Agarwal"/>
   </p>
